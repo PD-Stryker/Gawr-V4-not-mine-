@@ -1,14 +1,5 @@
 
 
-
-### Keyboard Binding System
-
-- [Keyboard Input Guide (text)](docs/keyboard_input_guide.md)
-
-### Pairing Cheat Sheet
-
-- [Pairing Cheat Sheet (text)](docs/pairing_guide.md)
-
 ## Bindings
 
 For information on how to properly set-up bindings see: [SteamVR Input System Guide](#guides)
