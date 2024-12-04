@@ -2,13 +2,6 @@
 
 ## Bindings
 
-For information on how to properly set-up bindings see: [SteamVR Input System Guide](#guides)
-
-The following actions currently exist:
-### Music
-
-Actions associated with media player.
-
 |    Action     |     Type      |  Explanation  |
 | ------------- | ------------- |  ------------ |
 | Play Next Track | Binary/Button | The same as using the media keys. Tells a media player to play the next song.|
